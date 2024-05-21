@@ -1,5 +1,11 @@
 ## Systemd
 
+### Reload all services
+
+```bash
+sudo systemctl daemon-reload
+```
+
 ### Enable service on boot
 
 ```bash
